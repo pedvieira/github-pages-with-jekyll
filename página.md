@@ -2,14 +2,15 @@
 title: "Página"
 ---
 
-# Navigation Structure
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. Primeiro Header
+<details open markdown="block">
+  <summary>
+    Conteúdos
+  </summary>
+  {: .text-delta }
+1. TOC
 {:toc}
+</details>
+
 
 # Primeiro Header
 
@@ -17,3 +18,4 @@ Aqui fica algum conteúdo
 
 ## Segundo Header
 {: .no_toc }
+
