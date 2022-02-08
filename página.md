@@ -9,8 +9,6 @@ title: "Página"
 {: .no_toc .text-delta }
 
 1. Primeiro Header
-2. OL
-3. OL2
 {:toc}
 
 # Primeiro Header
@@ -18,3 +16,4 @@ title: "Página"
 Aqui fica algum conteúdo
 
 ## Segundo Header
+{: .no_toc }
