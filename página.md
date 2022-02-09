@@ -6,7 +6,6 @@ title: "Página"
   <summary>
     Conteúdos
   </summary>
-  {: .text-delta }
 1. TOC
 {:toc}
 </details>
