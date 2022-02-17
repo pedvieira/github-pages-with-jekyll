@@ -1,5 +1,5 @@
 ---
-title: "Meu Site"
+title: "Início"
 ---
 
 Este é um teste para a implantação do tutorial do projeto de pesquisa **Canto Coral em Rede** 
@@ -10,11 +10,12 @@ Por enquanto, vou apenas atualizando a lista abaixo:
 
 - Telegram e seus bots
 - Wordpress e os LMS
+- Registro de domínio na internet
 - Gravação e edição de áudio
 - Gravação e edição de vídeo
 - Hospedagem de materiais no YouTube 
 
-Domínio: *ferramentas.cantocoral.net*
+Domínio: *https://ferramentas.cantocoral.net*
 
 ### JavaScript web mixer
 
